@@ -11,6 +11,23 @@
     margin-top: 30px;
 }
 
+@media only screen and (max-width: 745px) {
+
+    .main_div {
+        margin: 0px;
+        padding: 0px;
+        width: 710px;
+        height: 700px;
+    }
+
+    .header{
+        font-size: small;
+    }
+
+
+
+}
+
 .main_containt {
     /* background-color: rgb(255, 204, 0); */
     border: 1px solid black;
@@ -44,12 +61,12 @@
 .display_div {
     background-color: #aca3a3;
     height: 20vh;
-    text-align-last:right;
+    text-align-last: right;
     width: 25vw;
     border-radius: 0px 0px 10px 10px;
-    border: none ;
+    border: none;
 
-    
+
 }
 
 .button_div {
@@ -60,7 +77,7 @@
     row-gap: 5px;
     column-gap: 5px;
     margin-top: 2px;
-    
+
 }
 
 .item {
@@ -75,4 +92,3 @@
     border: 1px solid #726f6f;
 
 }
-
