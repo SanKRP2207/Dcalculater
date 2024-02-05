@@ -28,6 +28,22 @@
 
 }
 
+@media only screen and (max-width: 445px) {
+
+    .main_div {
+
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .header{
+        font-size: small;
+    }
+
+
+
+}
+
 .main_containt {
     /* background-color: rgb(255, 204, 0); */
     border: 1px solid black;
@@ -65,6 +81,7 @@
     width: 25vw;
     border-radius: 0px 0px 10px 10px;
     border: none;
+    font-size:xx-large;
 
 
 }
