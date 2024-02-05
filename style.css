@@ -23,25 +23,18 @@
     .header{
         font-size: small;
     }
-
-
-
 }
 
 @media only screen and (max-width: 445px) {
 
     .main_div {
 
-        margin-left: 20px;
-        margin-right: 20px;
+        width: 200vw;
     }
 
     .header{
         font-size: small;
     }
-
-
-
 }
 
 .main_containt {
